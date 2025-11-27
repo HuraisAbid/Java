@@ -1,0 +1,8 @@
+server:
+  port: 8080
+app:
+  env: prod
+logging:
+  level:
+    root: INFO
+
